@@ -143,8 +143,7 @@ PORT=5000
 MONGO_URI=mongodb://localhost:27017/helpdesk
 JWT_SECRET=your_super_secret_key_here_123456
 GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxxxxxx
-EMAIL_USER=yourgmail@gmail.com
-EMAIL_PASS=your_gmail_app_password
+
 ```
 
 #### How to get Groq API Key (FREE):
@@ -315,6 +314,3 @@ Register these accounts to test all features:
 
 
 
-Built by **Naksha** as an internship project — 2026
-
-GitHub: https://github.com/Naksha-123/Smart-Helpdesk-System-with-AI
